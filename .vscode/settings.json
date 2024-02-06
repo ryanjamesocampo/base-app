@@ -1,0 +1,12 @@
+{
+    "al.assemblyProbingPaths": [
+        "./.netpackages",
+        "C:\\Program Files\\Microsoft Dynamics 365 Business Central\\230\\Service\\",
+        "C:\\Program Files (x86)\\Reference Assemblies\\Microsoft\\Framework\\v3.5",
+        "C:\\Program Files (x86)\\Reference Assemblies\\Microsoft\\WindowsPowerShell",
+        "C:\\WebClient\\Microsoft Dynamics NAV\\140\\Web Client\\WebPublish\\",
+        "C:\\Windows\\assembly",
+        "C:\\Windows\\Microsoft.NET\\",
+        "C:\\Program Files\\dotnet\\sdk\\",
+    ]
+}
